@@ -21,5 +21,4 @@ switch(nidzaMajmun) {
   default:
     console.log('Nidza je orangutan');
     break;
-    
 }
